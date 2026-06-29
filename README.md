@@ -15,7 +15,7 @@ I chose Quality Education because it's a highly important subject. Magicka-Tack 
     •    Controls:
     •    Press B to launch ball
     •    Arrow keys to move
-    •    Spacebar (or Z) to attack
+    •    Spacebar (or Z) to attack/confirm
 
 *About the game*  
 Magicka-Tack is a Breakout-inspired game with action reminiscent of Zelda.
