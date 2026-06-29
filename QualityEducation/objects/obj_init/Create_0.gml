@@ -3,7 +3,7 @@
 audio_group_load(ag_mus);
 audio_group_load(ag_sfx);
 
-global.debug = true;
+global.debug = false;
 
 global.highscores = [0,0,0,0,0,0];
 global.levelsunlocked = 1;
