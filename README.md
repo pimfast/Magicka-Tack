@@ -4,7 +4,7 @@ A game made for the Saxion CMGT intake 2026/2027.
 
 SDG Theme: Quality Education (Goal 4)
 
-I chose Quality Education because it's a highly important subject. Magicka-Tack is my attempt to make something that is engaging to play while quietly reinforcing the importance of education and having a choice in it.
+I chose Quality Education because it's an important topic to me. Magicka-Tack is my attempt to make something that is engaging to play while quietly reinforcing the importance of education and having a choice in it.
 
 *How to play*
 
