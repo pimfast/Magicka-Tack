@@ -26,4 +26,4 @@ GameMaker Studio 2 / GML
 Grass Land tileset by Aleksandr Makarov
 
 Download and play the game:  
-[QualityEducation.zip](https://www.mediafire.com/file/rl6rvdta26vgwi1/pmnl.zip/file "Download the game!")
+[QualityEducation.zip](https://www.mediafire.com/file/pkxw8r4vddfyh62/QualityEducation.zip/file "Download the game!")
