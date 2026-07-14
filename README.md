@@ -13,7 +13,7 @@ I chose Quality Education because it's an important topic to me. Magicka-Tack is
     •    Windows only (GameMaker export limitation)
     
     •    Controls:
-    •    Press B to launch ball
+    •    Press B to cast ball
     •    Arrow keys to move
     •    Spacebar (or Z) to attack/confirm
 
